@@ -152,7 +152,7 @@ TextureImporter:
         width: 10
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,6 +209,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Projectile
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 479
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505d2f08d0c4624698f208675fd6770
+      internalID: 1672271857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -227,6 +249,7 @@ TextureImporter:
       Enemy_02: 6083409778808425383
       Enemy_03: -5112343832527560329
       Player: 5965727882619803520
+      Projectile: 1672271857
       Space_Sprites_4: 818668487
       Space_Sprites_5: -621194321
       Space_Sprites_6: 317270207
